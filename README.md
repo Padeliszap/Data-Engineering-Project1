@@ -1,4 +1,5 @@
-# Data-Engineering-Project1
+# Cataschevastica-An Online Transaction Processing Database
+
 The project refers to an Online Transaction Database (OLTP) for a fictitious manufacturing company
 Cataschevastica. This database serves as the central repository for managing the end-to-end
 manufacturing process, from order intake, items production to delivery, while prioritising customer
